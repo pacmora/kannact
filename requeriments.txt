@@ -1,0 +1,11 @@
+psycopg2==2.9.10
+fastapi==0.115.12
+dask==2025.5.1
+pandas==2.2.3
+kink==0.8.1
+pendulum==3.1.0
+pydantic==2.11.4
+email-validator==2.2.0
+uvicorn==0.34.2
+pytest==8.3.5
+Faker==37.3.0
